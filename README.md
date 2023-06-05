@@ -5,7 +5,7 @@
 <ul>
 <li>💎 employee of <a href="https://5tree.co.uk/">5tree</a> </li>
 <li>💎 Ex employee of <a href="https://quellxcode.com/">Quellxcode</a> </li>
-<li>👨‍💻 Worked on to developed mobile application <a href="https://medicosconnect.com/">Medicosconnect App.</a></li>
+<li>👨‍💻 Designed to developed mobile application <a href="https://medicosconnect.com/">Medicosconnect App.</a></li>
 <li>☕ Wrote RestFull API's in node js for <a href="http://www.heretofeedu.com/">Foodbook</a> website.</li>
 <li>🙋 Worked on Real state webiste <a href="https://www.strideup.co/">stride up</a>. </li>
 <li>🙋 Developed Real Chat app in React Native and website in React JS.</li>
