@@ -4,6 +4,7 @@
 <h3> My Working Experience:</h3>
 <ul>
 <li>💎 employee of <a href="https://5tree.co.uk/">5tree</a> </li>
+<li>💎 Ex employee of <a href="https://quellxcode.com/">Quellxcode</a> </li>
 <li>☕ Worked on to developed mobile application <a href="https://play.google.com/store/apps/details?id=com.feedu">Feedu.</a></li>
 <li>☕ Wrote RestFull API's in node js for <a href="http://www.heretofeedu.com/">Foodbook</a> website.</li>
 <li>🙋 Worked on Real state webiste <a href="https://www.strideup.co/">stride up</a>. </li>
