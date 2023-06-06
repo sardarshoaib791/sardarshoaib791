@@ -5,15 +5,15 @@
 <ul>
 <li>💎 employee of <a href="https://5tree.co.uk/">5tree</a> </li>
 <li>💎 Ex employee of <a href="https://quellxcode.com/">Quellxcode</a> </li>
-<li>👨‍💻 Designed to developed mobile application <a href="https://medicosconnect.com/">Medicosconnect App.</a></li>
-<li>🙋 Worked on Real state webiste <a href="https://www.strideup.co/">stride up</a>. </li>
-<li>🙋 Developed Real Chat app in React Native and website in React JS.</li>
-<li>🔨 Developed <a target ="_blank" href="https://food-delivery-using-tailwind.vercel.app/">Food delivery</a> website as hobby.</li>
-<li>🔨 Developed <a href="https://online-shoes-store.netlify.app/">Online shoes store </a> as hobby in React JS.</li>
-<li>👨‍ RestFull API's in node js for Upwork client halalfrizer website.</li>
-<li>🙋 Learning GraphQL and Azure clouds services.</li>
-<li>🚀 Developed Multiple Websites and mobile applications for several businesses.</li>
-<li>🚀 Developed several website using Tailwind CSS.</li>
+<li>💎 Designed to developed mobile application <a href="https://medicosconnect.com/">Medicosconnect App.</a></li>
+<li>💎 Worked on Real estate webiste. </li>
+<li>💎 Developed <a target ="_blank" href="https://github.com/sardarshoaib791/sardarshoaib791l.app/">Blogger</a> website as pation.</li>
+<li>💎 Developed Real Chat app in React Native and website in React JS.</li>
+<li>💎 Developed Online shoes store for upwork client in React JS.</li>
+<li>💎 RestFull API's in node js for Upwork client halalfrizer website.</li>
+<li>💎 Learning GraphQL and Azure clouds services.</li>
+<li>💎 Developed Multiple Websites and mobile applications for several businesses.</li>
+<li>💎 Developed several website using Tailwind CSS.</li>
 </ul> 
 <h3 align="left">What I can do:</h3>
 <ul>
