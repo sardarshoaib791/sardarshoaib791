@@ -17,13 +17,13 @@
 </ul> 
 <h3 align="left">What I can do:</h3>
 <ul>
-<li align="left">🌱 I’m Full Time MERN Stack Developer.</li>
-<li align="left">🌱 I have full Grip in Next JS and Typescript.</li>
-<li align="left">💪 My strength in rapid responsive Designing in React js and mobile application using React native.</li>
-<li align="left">🎨 I can design amazing layout using Bootstrap, MUI, and Ant design.</li>
-<li align="left">👯 My skills are in designing, web development, Mobile app development and REST API using Nodejs.</li>
-<li align="left">💻 Plan website development, converting mockups into usable web presence with HTML, React JS, Redux.</li>
-<li align="left">🔨 Convert graphic designs into usable web images using React JS.</li>
+<li align="left">● I am a Full Time MERN Stack Developer.</li>
+<li align="left">● I possess a strong command of Next.js and Typescript.</li>
+<li align="left">● I excel in creating responsive designs using React.js and developing mobile applications with React Native.</li>
+<li align="left">● I have proficiency in designing layouts using Bootstrap, MUI, and Ant Design.</li>
+<li align="left">● My skills encompass designing, web development, mobile app development, and creating REST APIs using Node.js./li>
+<li align="left">● I am experienced in planning website development and implementing mockups using HTML, React.js, and Redux.</li>
+<li align="left">● I am adept at transforming graphic designs into web-compatible images using React.js.</li>
 </ul>
 
 <h3>Reach me!</h3>
