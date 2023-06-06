@@ -14,6 +14,7 @@
 <li>💎 Learning GraphQL and Azure clouds services.</li>
 <li>💎 Developed Multiple Websites and mobile applications for several businesses.</li>
 <li>💎 Developed several website using Tailwind CSS.</li>
+<li>💎 Machine Learning Loading......</li> 
 </ul> 
 <h3 align="left">What I can do:</h3>
 <ul>
