@@ -3,15 +3,15 @@
 
 <h3> My Working Experience:</h3>
 <ul>
-<li>💎 employee of <a href="https://5tree.co.uk/">5tree</a> </li>
-<li>💎 Ex employee of <a href="https://quellxcode.com/">Quellxcode</a> </li>
+<li>💎 Ex-employee of <a href="https://5tree.co.uk/">5tree</a> </li>
+<li>💎 Ex-employee of <a href="https://quellxcode.com/">Quellxcode</a> </li>
 <li>💎 Designed to developed mobile application <a href="https://medicosconnect.com/">Medicosconnect App.</a></li>
-<li>💎 Worked on Real estate webiste. </li>
+<li>💎 Worked on Real estate website. </li>
 <li>💎 Developed <a target ="_blank" href="https://github.com/sardarshoaib791/sardarshoaib791l.app/">Blogger</a> website as pation.</li>
 <li>💎 Developed Real Chat app in React Native and website in React JS.</li>
-<li>💎 Developed Online shoes store for upwork client in React JS.</li>
-<li>💎 RestFull API's in node js for Upwork client halalfrizer website.</li>
-<li>💎 Learning GraphQL and Azure clouds services.</li>
+<li>💎 Developed Online shoe store for Upwork client in React JS.</li>
+<li>💎 RestFull APIs in node js for Upwork client halalfrizer website.</li>
+<li>💎 Learning GraphQL and Azure cloud services.</li>
 <li>💎 Developed Multiple Websites and mobile applications for several businesses.</li>
 <li>💎 Developed several website using Tailwind CSS.</li>
 <li>💎 Machine Learning Loading......</li> 
