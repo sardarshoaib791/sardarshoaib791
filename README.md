@@ -3,6 +3,7 @@
 
 <h3> My Working Experience:</h3>
 <ul>
+<li>💎 Employee of <a href="https://app-dev.12u12.com/">12u12</a> </li>
 <li>💎 Ex-employee of <a href="https://5tree.co.uk/">5tree</a> </li>
 <li>💎 Ex-employee of <a href="https://quellxcode.com/">Quellxcode</a> </li>
 <li>💎 Designed to developed mobile application <a href="https://medicosconnect.com/">Medicosconnect App.</a></li>
