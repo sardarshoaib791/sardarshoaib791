@@ -34,7 +34,7 @@
 <a target="_blank" href=""> +92 3109457915 </a>
 <br/>
 <a target="_blank" href="https://shoaibhanif.netlify.app/"> shoaibhanif.netlify.app </a>
-<be/>
+<br/>
 <a target="_blank" href="https://www.linkedin.com/in/shoaib91/"> www.linkedin.com/in/shoaib91 </a>
 
 <h3 align="left">Languages and Tools:</h3>
