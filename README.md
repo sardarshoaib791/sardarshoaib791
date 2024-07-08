@@ -1,5 +1,5 @@
 <h1 align="">Hi, Welcome to Ehtesham's GitHub 👋</h1>
-<h3 align="">A Self-Motivated MERN stack developer from Islamabad Pakistan.</h3>
+<h3 align="">A passionate MERN Stack developer.</h3>
 
 <h3> My Working Experience:</h3>
 <ul>
