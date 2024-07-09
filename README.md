@@ -6,6 +6,24 @@
 <h3 align="center">A passionate software developer from Pakistan PK</h3>
 
 <br/>
+
+<div align="center">
+ 
+ 🔭 I’m currently working on **12u12 Technology**
+ 
+ 🌱 I’m currently learning **Docker, Supabase, AWS, Machine Learning, Data Science**
+
+💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/sardarshoaib791/sardarshoaib791/issues)**
+
+⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+
+ </div>
+
+
+
+
+
+
 <h3> My Working Experience:</h3>
 <ul>
 <li>💎 Employee of <a href="https://app-dev.12u12.com/">12u12</a> </li>
