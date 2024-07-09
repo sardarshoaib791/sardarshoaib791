@@ -9,7 +9,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on <a style="color: #36BCF7FF;">**12u12 Technology**</a>
+ 🔭 I’m currently working on **12u12 Technology**
  
  🌱 I’m currently learning **Docker, Supabase, AWS, Machine Learning, Data Science**
 
