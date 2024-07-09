@@ -1,9 +1,11 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sardarshoaib791.sardarshoaib791" />
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&Center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shoaib+Hanif!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shoaib+Hanif!;" />
 </h1>
-<h3 align="left">A passionate software developer from Pakistan PK</h3>
 
+<h3 align="center">A passionate software developer from Pakistan PK</h3>
+
+<br/>
 <h3> My Working Experience:</h3>
 <ul>
 <li>💎 Employee of <a href="https://app-dev.12u12.com/">12u12</a> </li>
