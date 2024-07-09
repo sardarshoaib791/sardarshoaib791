@@ -39,8 +39,8 @@
 <br/>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nodejs,html,css,bootstrap,mui,vscode,github,tailwind,git," />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,express,firebase,mongodb,c,java,nextjs,mysql,flask,figma,xd,ai" /><br>
 </div>
 
 <br/>
@@ -50,9 +50,19 @@
   <h2>🐍 My Contributions 🐍</h2>
   <img alt="snake eating my contributions" src="https://github.com/sardarshoaib791/sardarshoaib791/blob/output/github-contribution-grid-snake-dark.svg" />
   
-  <br/><br/><br/>
+  <br/>
 </div>
 
 <br/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sardarshoaib791&show_icons=true&theme=transparent&title_color=0077B5&text_color=ffffff&rank_icon=github">
+  <img align="center" width=42% src="https://github-readme-stats.vercel.app/api/top-langs/?username=sardarshoaib791&layout=compact&title_color=0077B5"/>
+</div>
+
+<br/><br/>
+
 
 
