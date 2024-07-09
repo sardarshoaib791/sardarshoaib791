@@ -43,10 +43,9 @@
 
 <br/>
 
- <h1></h1>
-<h2>🐍 My Contributions 🐍</h2>
+
 <div align="center">
-  
+  <h2>🐍 My Contributions 🐍</h2>
   <img alt="snake eating my contributions" src="https://github.com/sardarshoaib791/sardarshoaib791/blob/output/github-contribution-grid-snake-dark.svg" />
   
   <br/><br/><br/>
