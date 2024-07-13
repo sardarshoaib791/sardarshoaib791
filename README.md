@@ -55,6 +55,15 @@
 
 <br/>
 
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sardarshoaib791&show_icons=true&theme=transparent&title_color=0077B5&text_color=ffffff&rank_icon=github">
+  <img align="center" width=42% src="https://github-readme-stats.vercel.app/api/top-langs/?username=sardarshoaib791&layout=compact&title_color=0077B5"/>
+</div>
+
+<br/><br/>
+
 
 
 
